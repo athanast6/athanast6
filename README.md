@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tex Athanas
-- 👀 I’m interested in 3d development using Unity and Blender, and web development using Django,
+- 👀 I’m interested in 3d development using Unity and Blender, and web development using Django.
 - 📫 How to reach me: athanast6@gmail.com
 
 <!---
